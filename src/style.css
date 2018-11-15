@@ -1,0 +1,46 @@
+.link {
+  text-decoration: none;
+  width: 250px;
+}
+
+
+
+.card {
+  border-radius: 4px;
+  width: 202px;
+  height: 360px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 0px 2.5px 5px 2.5px;
+  padding: 16px 24px 24px 24px;
+  background-color: #6f74dd;
+  align-items: center;
+}
+
+.imageContainer {
+  width: 200px;
+  height: 250px;
+  border-radius: 4px;
+}
+
+.cardText {
+  margin: 0;
+  margin-top: 5px;
+  color: #ffffff;
+}
+
+.cardText-p {
+  font-size: 0.875rem;
+  font-weight: 400;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 1.46429em;
+  justify-self: flex-end;
+}
+
+.cardText-h2 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 1.35417em;
+}
